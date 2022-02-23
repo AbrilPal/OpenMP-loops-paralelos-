@@ -1,0 +1,1 @@
+# OpenMP-loops-paralelos-
